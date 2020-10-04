@@ -19,7 +19,7 @@ LA갈비 2kg
 
 1. 고기를 준비하고 물에 30분 정도 담가 핏물을 제거한다.
 
-![KakaoTalk_20200930_220013034]
+![KakaoTalk_20200930_220013034](https://user-images.githubusercontent.com/38436013/95004023-ebd11380-0620-11eb-9e11-1da7bfddbb36.jpg)
 
 
 2. 양파와 배를 믹서에 넣고 간 후, 마늘, 생강가루를 적절히 섞는다.
@@ -28,7 +28,8 @@ LA갈비 2kg
 
 4. 고기에 잠길 정도로 콜라를 넣어 준다.
 
-   ![KakaoTalk_20200930_220012487](C:\Users\yujin\OneDrive\바탕 화면\KakaoTalk_20200930_220012487.jpg)
+  ![KakaoTalk_20200930_220012487](https://user-images.githubusercontent.com/38436013/95004027-fa1f2f80-0620-11eb-80c8-802d2c5a5bb1.jpg)
+
 
 5. 위에 송송 썰은 파도 토핑해 준다
 
@@ -36,7 +37,8 @@ LA갈비 2kg
 
 7. 고기가 완전히 익을 정도로 굽는다 - 이 팬 기준으로 한판당 15~20 분 정도 걸림
 
-   ![KakaoTalk_20200930_220012803](C:\Users\yujin\OneDrive\바탕 화면\KakaoTalk_20200930_220012803.jpg)
+  ![KakaoTalk_20200930_220012803](https://user-images.githubusercontent.com/38436013/95004035-07d4b500-0621-11eb-951f-64b8de7e42a5.jpg)
+
    
 ### 존맛!   
    
