@@ -1,13 +1,13 @@
 ## Hi there! 👋
 
-### About myself
+### About myself 🥕
 
 I'm Yu Jin Hong and I'm interested in Backend development & Cloud.   
 I'm full with eager to learn new technique and skill.   
 I want to be a developer who grows day by day as much as github commits.   
 
 
-### Skill Set
+### Skill Set 
 
 ✔ Familiar with  
 Python, c++, c, AWS, MySQL, mongondb, Crawling, Django, git
@@ -21,11 +21,7 @@ Java, Spring, Spring boot, Spring cloud ..
 👌 So so & Had tried it  
 Html, css, Java, javascript, linux, Docker, Tensorflow, Android
 
-### About me & Contact me
-
-💌 [mail](mailto:redccc9010@gmail.com) contact me !!
-
-👉 [github](https://github.com/redcarrot01) Here's my repo !!
+### About me & Contact me 🙌
 
   <a href="https://velog.io/@redcarrot01"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@redcarrot01"/></a>  <a href="https://www.linkedin.com/in/yujin-hong-b93454193"><image src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yujin-hong-b93454193"/></a>  <a href="mailto:redccc9010@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a> 
 
