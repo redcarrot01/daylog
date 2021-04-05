@@ -27,5 +27,8 @@ Html, css, Java, javascript, linux, Docker, Tensorflow, Android
 
 👉 [github](https://github.com/redcarrot01) Here's my repo !!
 
+  <a href="https://velog.io/@redcarrot01"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@redcarrot01"/></a>&nbsp
+  <a href="mailto:redccc9010@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+
 
 [![redcarrot01's GitHub stats](https://github-readme-stats.vercel.app/api?username=redcarrot01&count_private=true&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
