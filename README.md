@@ -9,7 +9,7 @@
 2. [삼성 sw 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152) 
 3. [프로그래머스](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 
-
+---
 
 ## P2&P3
 
@@ -380,7 +380,8 @@
 </div>
 </details>   
 
-
+</div>
+</details>   
 
 <details>
 <summary>문제 코드와 해설</summary>
