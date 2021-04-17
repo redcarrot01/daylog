@@ -393,18 +393,24 @@
 <div markdown="1">
 
 dff
+</div>
+</details>   
 
 <details>
 <summary>Programmers</summary>
 <div markdown="1">
 
 dfg
+</div>
+</details>   
 
 <details>
 <summary>ETC</summary>
 <div markdown="1">
 
 GG
+</div>
+</details>   
 
 </div>
 </details>   
